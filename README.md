@@ -1,13 +1,13 @@
 # Projeto-final-em-Python-ADMeTEC
 
 ## Equipe:
-Beatriz Karoline Cordeiro da Silva
-Hebert Aragão da Silva
-João Bosco Pereira
-Luciana Pinto dos Santos Barreto
-Edvaldo Viana da Silva Neto
-Fredson de Siqueira Carvalho
-Marília Trajano de Brito Barbosa
+Beatriz Karoline Cordeiro da Silva;
+Hebert Aragão da Silva;
+João Bosco Pereira;
+Luciana Pinto dos Santos Barreto;
+Edvaldo Viana da Silva Neto;
+Fredson de Siqueira Carvalho;
+Marília Trajano de Brito Barbosa;
 Tamyres Pereira da Silva
 
 ### Como usar
